@@ -22,5 +22,14 @@ header#siteheader{
     font-size:32px;
     color:orange;
     text-align:center;
+  
+}
 
+/*site motto*/
+span#sitemotto{
+  font-size:18px;
+  font-family:tahoma;
+  fontstyle:italic;
+  color:aqua;
+  text-align:center;
 }
